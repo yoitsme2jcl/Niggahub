@@ -10,3 +10,4 @@ local StrToNumber=tonumber;local Byte=string.byte;local Char=string.char;local S
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
 
 ]]--
+2
